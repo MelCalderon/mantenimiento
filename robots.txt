@@ -1,0 +1,7 @@
+# Mel Calderón robots.txt -- ¡Atrévete al Cambio!
+
+User-Agent: *
+Disallow: 
+
+Sitemap: https://www.melcalderon.com/sitemap.xml
+
